@@ -1,0 +1,24 @@
+
+#p1{
+    margin-top: 2px;
+}
+#line1{
+    margin-bottom:2px;
+}
+#line2{
+    margin-top:0px;
+}
+.heading{
+    background-color: maroon;
+    color: white;  
+    font-style: oblique; 
+    font-weight: bold;
+}
+#line{
+    margin-top: 0px;
+    padding-top: 0%;
+}
+.sty{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
